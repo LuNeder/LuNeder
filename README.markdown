@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I don't really have anything interesting to add here
-
+🇧🇷 Brazilian
+🐍 I know Python
+👨‍🏫 [I have a game in which the main character is my Physics teacher (LuNeder/Cajuru)](https://bit.ly/DiegVet)
+Idk what else to add here, maybe take a look at my repositories idk
 <!--
 **LuNeder/LuNeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
