@@ -6,6 +6,8 @@
 
 👨‍🏫 [I have a game in which the main character is my Physics teacher (LuNeder/Cajuru)](https://bit.ly/DiegVet)
 
+🔓 Add my iOS Jailbreak repo: [https://luneder.github.io/repo](https://luneder.github.io/repo)
+
 Idk what else to add here, maybe take a look at my repositories idk
 
 <!--
