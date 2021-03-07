@@ -4,6 +4,8 @@
 
 🐍 I know Python
 
+🔩 I'm learning Rust (or trying to)
+
 👨‍🏫 [I have a game in which the main character is my Physics teacher (LuNeder/Cajuru)](https://bit.ly/DiegVet)
 
 🔓 Add my iOS Jailbreak repo: [https://luneder.github.io/repo](https://luneder.github.io/repo)
@@ -18,7 +20,7 @@ Idk what else to add here, maybe take a look at my repositories idk
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: python
+- 🌱 I’m currently learning: python, rust
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: whatever you want, but maybe I won't know the answer 
