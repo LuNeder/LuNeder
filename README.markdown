@@ -4,7 +4,7 @@
 
 🐍 I know Python
 
-🔩 I'm learning Rust (or trying to)
+🔩 I'm learning Rust
 
 👨‍🏫 [I have a game in which the main character is my Physics teacher (LuNeder/Cajuru)](https://bit.ly/DiegVet)
 
