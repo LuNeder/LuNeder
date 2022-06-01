@@ -10,9 +10,13 @@ Luana, She/Her
 
 🦩 I'm learning Swift
 
+👀 I'll learn C, Java and Fortran next
+<!--
 👨‍🏫 [I have a game in which the main character is my Physics teacher (LuNeder/Cajuru)](https://bit.ly/DiegVet)
 
+
 🔓 Add my iOS Jailbreak repo: [https://luneder.github.io/repo](https://luneder.github.io/repo)
+-->
 
 🕸 Check my Website: [https://luana.dev.br/](https://luana.dev.br/)
 
@@ -27,7 +31,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: python, rust
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about: whatever you want, but maybe I won't know the answer 
+- 💬 Ask me about: whatever you want, but I probably won't know the answer 
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
