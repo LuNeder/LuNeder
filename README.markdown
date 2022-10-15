@@ -2,7 +2,12 @@
 
 Luana, She/Her
 
+luana@luana.dev.br
+
+
 🇧🇷 Brazilian
+
+🏳️‍🌈 Lesbian
 
 🐍 I know Python
 
@@ -15,7 +20,7 @@ Luana, She/Her
 👨‍🏫 [I have a game in which the main character is my Physics teacher (LuNeder/Cajuru)](https://bit.ly/DiegVet)
 
 
-🔓 Add my iOS Jailbreak repo: [https://luneder.github.io/repo](https://luneder.github.io/repo)
+🔓 Add my iOS Jailbreak repo: [https://jbrepo.luana.dev.br/](https://jbrepo.luana.dev.br/)
 -->
 
 🕸 Check my Website: [https://luana.dev.br/](https://luana.dev.br/)
@@ -28,7 +33,7 @@ Idk what else to add here, maybe take a look at my repositories idk
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: python, rust
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: whatever you want, but I probably won't know the answer 
