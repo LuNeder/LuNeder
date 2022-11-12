@@ -25,10 +25,9 @@ luana@luana.dev.br
 
 🕸 Check my Website: [https://luana.dev.br/](https://luana.dev.br/)
 
-<!--
-Mastodon verification
-Mastodon: <a rel="me" href="https://tech.lgbt/@luana">@luana@tech.lgbt</a>
--->
+
+
+🐘 Check my Mastodon: <a rel="me" href="https://tech.lgbt/@luana">@luana@tech.lgbt</a>
 
 
 Idk what else to add here, maybe take a look at my repositories idk
