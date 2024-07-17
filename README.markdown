@@ -13,6 +13,8 @@ luana@luana.dev.br
 
 🔩 I know Rust
 
+🧮 I know FORTRAN
+
 
 <!--
 👨‍🏫 [I have a game in which the main character is my Physics teacher (LuNeder/Cajuru)](https://bit.ly/DiegVet)
