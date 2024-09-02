@@ -9,6 +9,8 @@ luana@luana.dev.br
 
 🏳️‍🌈 Lesbian
 
+🤖 I know Godot
+
 🐍 I know Python
 
 🔩 I know Rust
