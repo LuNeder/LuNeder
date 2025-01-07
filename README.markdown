@@ -29,7 +29,7 @@ luana@luana.dev.br
 
 
 
-🐘 Check my Mastodon: <a rel="me" href="https://tech.lgbt/@luana">@luana@tech.lgbt</a>
+🐘 Check my Mastodon: <a rel="me" href="https://wetdry.world/@luana">@luana@wetdry.world</a>
 
 
 Idk what else to add here, maybe take a look at my repositories idk
